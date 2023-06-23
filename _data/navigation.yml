@@ -1,0 +1,6 @@
+main:
+  - title: "About me"
+    url: /index/
+  - title: "Publications"
+    url: /publications/
+
