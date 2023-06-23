@@ -1,6 +1,8 @@
 main:
   - title: "About me"
     url: /
+  - title: "Awards"
+    url: /awards/
   - title: "Publications"
     url: /publications/
 
