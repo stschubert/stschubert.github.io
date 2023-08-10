@@ -37,5 +37,4 @@ see also [Google Scholar](https://scholar.google.de/citations?user=tOq1IwMAAAAJ&
 4. Neubert, P., Schubert, S., Protzel, P. (2015). Exploiting intra Database Similarities for Selection of Place Recognition Candidates in Changing Environments. _Proc. of. Computer Vision and Pattern Recognition (CVPR) Workshop on Visual Place Recognition in Changing Environments_. [pdf](https://www.tu-chemnitz.de/etit/proaut/publications/neubert_intra_database_similarities.pdf)
 
 ## Preprints
-1. Schubert, S., Neubert, P., Garg, S., Milford, M., Fischer, T. (2023). Visual Place Recognition: A Tutorial. _arXiv_. [arxiv](https://dx.doi.org/10.48550/arXiv.2303.03281)
-2. Schubert, S., Neubert, P. (2021). What makes visual place recognition easy or hard? _arXiv_. [arxiv](https://dx.doi.org/10.48550/arXiv.2106.12671)
+1. Schubert, S., Neubert, P. (2021). What makes visual place recognition easy or hard? _arXiv_. [arxiv](https://dx.doi.org/10.48550/arXiv.2106.12671)
