@@ -6,7 +6,7 @@ title: "Publications"
 see also [Google Scholar](https://scholar.google.de/citations?user=tOq1IwMAAAAJ&hl)
 
 ## Journal articles
-1. Schubert, S., Neubert, P., Garg, S., Milford, M., Fischer, T. (2023). Visual Place Recognition: A Tutorial. _IEEE Robotics and Automation Magazine (RAM)_. [arxiv]([https://dx.doi.org/10.48550/arXiv.2303.03281). (to appear)
+1. Schubert, S., Neubert, P., Garg, S., Milford, M., Fischer, T. (2023). Visual Place Recognition: A Tutorial. _IEEE Robotics & Automation Magazine (RAM)_. [doi](https://dx.doi.org/10.1109/MRA.2023.3310859). (Early Access). **Open Access**
 2. Schubert, S., Neubert, P., Protzel, P. (2021). Graph-Based Non-Linear Least Squares Optimization for Visual Place Recognition in Changing Environments. _In IEEE Robotics and Automation Letters (RA-L)_. [doi](https://dx.doi.org/10.1109/LRA.2021.3052446), [arxiv](https://arxiv.org/abs/2012.14766)
 3. Neubert, P., Schubert, S., Protzel, P. (2021). Resolving Place Recognition Inconsistencies using Intra-Set Similarities. _In IEEE Robotics and Automation Letters (RA-L)_. [doi](https://dx.doi.org/10.1109/LRA.2021.3060729)
 4. Sudharshan, V., Seidel, P., Ghamisi, P., Lorenz, S., Fuchs, M., Fareedh, J. S., Neubert, P., Schubert, S., Gloaguen, R. (2020). Object detection routine for material streams combining RGB and hyperspectral reflectance databased on Guided Object Localization. _In IEEE Sensors Journal_. [doi](https://dx.doi.org/10.1109/JSEN.2020.2996757)
