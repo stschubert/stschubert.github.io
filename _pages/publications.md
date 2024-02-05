@@ -5,14 +5,17 @@ title: "Publications"
 
 see also [Google Scholar](https://scholar.google.de/citations?user=tOq1IwMAAAAJ&hl)
 
-## Journal articles
-1. Schubert, S., Neubert, P., Garg, S., Milford, M., Fischer, T. (2023). Visual Place Recognition: A Tutorial. _IEEE Robotics & Automation Magazine (RAM)_. [doi](https://dx.doi.org/10.1109/MRA.2023.3310859). (Early Access). **Open Access**
-2. Schubert, S., Neubert, P., Protzel, P. (2021). Graph-Based Non-Linear Least Squares Optimization for Visual Place Recognition in Changing Environments. _In IEEE Robotics and Automation Letters (RA-L)_. [doi](https://dx.doi.org/10.1109/LRA.2021.3052446), [arxiv](https://arxiv.org/abs/2012.14766)
-3. Neubert, P., Schubert, S., Protzel, P. (2021). Resolving Place Recognition Inconsistencies using Intra-Set Similarities. _In IEEE Robotics and Automation Letters (RA-L)_. [doi](https://dx.doi.org/10.1109/LRA.2021.3060729)
-4. Sudharshan, V., Seidel, P., Ghamisi, P., Lorenz, S., Fuchs, M., Fareedh, J. S., Neubert, P., Schubert, S., Gloaguen, R. (2020). Object detection routine for material streams combining RGB and hyperspectral reflectance databased on Guided Object Localization. _In IEEE Sensors Journal_. [doi](https://dx.doi.org/10.1109/JSEN.2020.2996757)
-5. Neubert, P., Schubert, S., Protzel, P. (2019). An Introduction to High Dimensional Computing for Robotics. _In KI – Künstliche Intelligenz, Special Issue: Reintegrating Artificial Intelligence and Robotics_. [doi](https://dx.doi.org/10.1007/s13218-019-00623-z), [read online](https://rdcu.be/bRpqw)
-6. Neubert, P., Schubert, S., Protzel, P. (2019). A neurologically inspired sequence processing model for mobile robot place recognition. _In IEEE Robotics and Automation Letters (RA-L)_. [doi](https://dx.doi.org/10.1109/LRA.2019.2927096), [pdf](https://www.tu-chemnitz.de/etit/proaut/publications/neubert19_RAL.pdf)
+## PhD Thesis
+Schubert, S. (2023). Visual Place Recognition in Changing Environments using Additional Data-Inherent Knowledge. PhD thesis. Chemnitz University of Technology. [link](https://nbn-resolving.org/urn:nbn:de:bsz:ch1-qucosa2-872740)
 
+## Journal articles
+1. Yuan, F., Schubert, S., Protzel, P., Neubert, P. (2024). Local positional graphs and attentive local features for a data and runtime-efficient hierarchical place recognition pipeline. IEEE Robotics and Automation Letters (RA-L). [doi](https://dx.doi.org/10.1109/LRA.2024.3359552). (Early Access)
+2. Schubert, S., Neubert, P., Garg, S., Milford, M., Fischer, T. (2023). Visual Place Recognition: A Tutorial. _IEEE Robotics & Automation Magazine (RAM)_. [doi](https://dx.doi.org/10.1109/MRA.2023.3310859). (Early Access). **Open Access**
+3. Schubert, S., Neubert, P., Protzel, P. (2021). Graph-Based Non-Linear Least Squares Optimization for Visual Place Recognition in Changing Environments. _In IEEE Robotics and Automation Letters (RA-L)_. [doi](https://dx.doi.org/10.1109/LRA.2021.3052446), [arxiv](https://arxiv.org/abs/2012.14766)
+4. Neubert, P., Schubert, S., Protzel, P. (2021). Resolving Place Recognition Inconsistencies using Intra-Set Similarities. _In IEEE Robotics and Automation Letters (RA-L)_. [doi](https://dx.doi.org/10.1109/LRA.2021.3060729)
+5. Sudharshan, V., Seidel, P., Ghamisi, P., Lorenz, S., Fuchs, M., Fareedh, J. S., Neubert, P., Schubert, S., Gloaguen, R. (2020). Object detection routine for material streams combining RGB and hyperspectral reflectance databased on Guided Object Localization. _In IEEE Sensors Journal_. [doi](https://dx.doi.org/10.1109/JSEN.2020.2996757)
+6. Neubert, P., Schubert, S., Protzel, P. (2019). An Introduction to High Dimensional Computing for Robotics. _In KI – Künstliche Intelligenz, Special Issue: Reintegrating Artificial Intelligence and Robotics_. [doi](https://dx.doi.org/10.1007/s13218-019-00623-z), [read online](https://rdcu.be/bRpqw)
+7. Neubert, P., Schubert, S., Protzel, P. (2019). A neurologically inspired sequence processing model for mobile robot place recognition. _In IEEE Robotics and Automation Letters (RA-L)_. [doi](https://dx.doi.org/10.1109/LRA.2019.2927096), [pdf](https://www.tu-chemnitz.de/etit/proaut/publications/neubert19_RAL.pdf)
 
 ## Conference papers
 1. Neubert, P., Schubert, S. (2022). SEER: Unsupervised and sample-efficient environment specialization of image descriptors. _Proc. of Robotics: Science and Systems (RSS)_. [doi](https://dx.doi.org/10.15607/RSS.2022.XVIII.006).
