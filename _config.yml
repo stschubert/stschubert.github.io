@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Stefan Schubert"
+  name             : "Dr. Stefan Schubert"
   avatar           : "https://www.tu-chemnitz.de/etit/proaut/en/rsrc/team/schubert.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Research Assistant, Visual Localization, Machine Learning & Robotics"
+  bio              : "Research Scientist, Visual Localization, Visual SLAM, Machine Learning & Robotics"
   location         : "Chemnitz, Germany"
   email            :
   links:
