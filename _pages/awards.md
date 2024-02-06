@@ -2,7 +2,6 @@
 permalink: /awards/
 title: "Awards"
 ---
-
 - [RSS Pioneer 2019](#RSS%20Pioneer%202019%20(Conference%20Robotics%20Science%20and%20Systems))
 - [TAROS 2017 Best Paper Award](#TAROS%202017%20Best%20Paper%20Award)
 - [TAROS 2016 Best Paper Award](#TAROS%202016%20Best%20Paper%20Award)
