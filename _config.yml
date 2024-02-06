@@ -282,3 +282,5 @@ defaults:
       comments: # true
       share: false
       related: true
+      classes: wide
+
