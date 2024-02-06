@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Dr. Stefan Schubert"
 title_separator          : "-"
-subtitle                 : "Research Scientist"
+subtitle                 : "Research Scientist - Computer Vision, Machine Learning & Robotics"
 name                     : "Dr. Stefan Schubert"
 description              : "My website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Dr. Stefan Schubert"
   avatar           : "https://www.tu-chemnitz.de/etit/proaut/en/rsrc/team/schubert.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Research Scientist, Visual Place Recognition, Visual Localization, Visual SLAM, Machine Learning & Robotics"
+  bio              : "Research Scientist, Computer Vision, Visual Place Recognition, Visual Localization, Visual SLAM, Machine Learning & Robotics"
   location         : "Heilbronn & Chemnitz, Germany"
   email            : "mailto:stefan.schubert@etit.tu-chemnitz.de"
   links:
