@@ -3,10 +3,10 @@ permalink: /awards/
 title: "Awards"
 ---
 - [RSS Pioneer 2019](https://stschubert.github.io/awards/#rss-pioneer-2019-conference-robotics-science-and-systems)
-- [TAROS 2017 Best Paper Award](awards#TAROS%202017%20Best%20Paper%20Award)
-- [TAROS 2016 Best Paper Award](#TAROS%202016%20Best%20Paper%20Award)
-- [Prize of the Dresden Circle of Business and Science, 2015](#Prize%20of%20the%20Dresden%20Circle%20of%20Business%20and%20Science,%202015)
-- [German National Scholarship, 2011-2013](#German%20National%20Scholarship,%202011-2013)
+- [TAROS 2017 Best Paper Award](https://stschubert.github.io/awards/#taros-2017-best-paper-award)
+- [TAROS 2016 Best Paper Award](https://stschubert.github.io/awards/#taros-2016-best-paper-award)
+- [Prize of the Dresden Circle of Business and Science, 2015](https://stschubert.github.io/awards/#prize-of-the-dresden-circle-of-business-and-science-2015)
+- [German National Scholarship, 2011-2013](https://stschubert.github.io/awards/#german-national-scholarship-2011-2013)
 
 ### RSS Pioneer 2019 (Conference Robotics: Science and Systems)
 ![Group photo RSS Pioneers 2019](/_images/awards/rssp19.jpg)
