@@ -5,8 +5,10 @@ title: "Publications"
 
 see also [Google Scholar](https://scholar.google.de/citations?user=tOq1IwMAAAAJ&hl)
 
-## PhD Thesis
-Schubert, S. (2023). Visual Place Recognition in Changing Environments using Additional Data-Inherent Knowledge. PhD thesis. Chemnitz University of Technology. [link](https://nbn-resolving.org/urn:nbn:de:bsz:ch1-qucosa2-872740)
+## Theses
+1. Schubert, S. (2023). Visual Place Recognition in Changing Environments using Additional Data-Inherent Knowledge. PhD thesis. Chemnitz University of Technology. [link](https://nbn-resolving.org/urn:nbn:de:bsz:ch1-qucosa2-872740)
+2. Schubert, S. (2014). Optimierter Einsatz eines 3D-Laserscanners zur Point-Cloud-basierten Kartierung und Lokalisierung im In- und Outdoorbereich. Master's thesis. Chemnitz University of Technology. [link](https://nbn-resolving.org/urn:nbn:de:bsz:ch1-qucosa-161415)
+3. Schubert, S. (2012). Analyse und Regelung einer Mehrgrößenfüllstandsstrecke. Bachelor's thesis. Chemnitz University of Technology.
 
 ## Journal articles
 1. Yuan, F., Schubert, S., Protzel, P., Neubert, P. (2024). Local positional graphs and attentive local features for a data and runtime-efficient hierarchical place recognition pipeline. IEEE Robotics and Automation Letters (RA-L). [doi](https://dx.doi.org/10.1109/LRA.2024.3359552). (Early Access)
