@@ -11,7 +11,7 @@ see also [Google Scholar](https://scholar.google.de/citations?user=tOq1IwMAAAAJ&
 3. Schubert, S. (2012). Analyse und Regelung einer Mehrgrößenfüllstandsstrecke. Bachelor's thesis. Chemnitz University of Technology.
 
 ## Journal articles
-1. Yuan, F., Schubert, S., Protzel, P., Neubert, P. (2024). Local positional graphs and attentive local features for a data and runtime-efficient hierarchical place recognition pipeline. IEEE Robotics and Automation Letters (RA-L). [doi](https://dx.doi.org/10.1109/LRA.2024.3359552)
+1. Yuan, F., Schubert, S., Protzel, P., Neubert, P. (2024). Local positional graphs and attentive local features for a data and runtime-efficient hierarchical place recognition pipeline. IEEE Robotics and Automation Letters (RA-L). [doi](https://dx.doi.org/10.1109/LRA.2024.3359552), [arxiv](https://arxiv.org/abs/2403.10283)
 2. Schubert, S., Neubert, P., Garg, S., Milford, M., Fischer, T. (2023). Visual Place Recognition: A Tutorial. _IEEE Robotics & Automation Magazine (RAM)_. [doi](https://dx.doi.org/10.1109/MRA.2023.3310859). (Early Access). **Open Access**
 3. Schubert, S., Neubert, P., Protzel, P. (2021). Graph-Based Non-Linear Least Squares Optimization for Visual Place Recognition in Changing Environments. _In IEEE Robotics and Automation Letters (RA-L)_. [doi](https://dx.doi.org/10.1109/LRA.2021.3052446), [arxiv](https://arxiv.org/abs/2012.14766)
 4. Neubert, P., Schubert, S., Protzel, P. (2021). Resolving Place Recognition Inconsistencies using Intra-Set Similarities. _In IEEE Robotics and Automation Letters (RA-L)_. [doi](https://dx.doi.org/10.1109/LRA.2021.3060729)
