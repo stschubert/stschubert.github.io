@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Stefan Schubert"
   avatar           : "https://www.tu-chemnitz.de/etit/proaut/en/rsrc/team/schubert.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Research Scientist, Computer Vision, Visual Place Recognition, Visual Localization, Visual SLAM, Machine Learning & Robotics"
+  bio              : "Research Fellow, Computer Vision, Visual Place Recognition, Visual Localization, Visual SLAM, Machine Learning & Robotics"
   location         : "Heilbronn & Chemnitz, Germany"
   email            : "mailto:stefan.schubert@etit.tu-chemnitz.de"
   links:
