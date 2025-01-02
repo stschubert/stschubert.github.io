@@ -20,7 +20,7 @@ see also [Google Scholar](https://scholar.google.de/citations?user=tOq1IwMAAAAJ&
 7. Neubert, P., Schubert, S., Protzel, P. (2019). A neurologically inspired sequence processing model for mobile robot place recognition. _In IEEE Robotics and Automation Letters (RA-L)_. [doi](https://dx.doi.org/10.1109/LRA.2019.2927096), [pdf](https://www.tu-chemnitz.de/etit/proaut/publications/neubert19_RAL.pdf)
 
 ## Conference papers
-1. Weißflog, M., Schubert, S., Protzel, P., Neubert, P. (2024): Towards Revisiting Visual Place Recognition for Joining Submaps in Multimap SLAM. _Proc. of Towards Autonomous Robotic Systems (TAROS)_. [doi](https://dx.doi.org/10.1109/MRA.2023.3310859), [arxiv](https://doi.org/10.48550/arXiv.2407.12408).
+1. Weißflog, M., Schubert, S., Protzel, P., Neubert, P. (2024): Towards Revisiting Visual Place Recognition for Joining Submaps in Multimap SLAM. _Proc. of Towards Autonomous Robotic Systems (TAROS)_. [doi](https://dx.doi.org/10.1007/978-3-031-72059-8_9), [arxiv](https://doi.org/10.48550/arXiv.2407.12408).
 2. Neubert, P., Schubert, S. (2022). SEER: Unsupervised and sample-efficient environment specialization of image descriptors. _Proc. of Robotics: Science and Systems (RSS)_. [doi](https://dx.doi.org/10.15607/RSS.2022.XVIII.006)
 3. Schubert, S., Neubert, P., Protzel, P. (2021). Fast and Memory Efficient Graph Optimization via ICM for Visual Place Recognition. _Proc. of Robotics: Science and Systems (RSS)_. [doi](https://dx.doi.org/10.15607/RSS.2021.XVII.091)
 4. Neubert, P., Schubert, S., Schlegel, K., Protzel, P. (2021). Vector Semantic Representations as Descriptors for Visual Place Recognition. _Proc. of Robotics: Science and Systems (RSS)_. [doi](https://dx.doi.org/10.15607/RSS.2021.XVII.083)
