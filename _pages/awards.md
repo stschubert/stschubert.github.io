@@ -23,7 +23,6 @@ I was one of the 23 international PhD students and postdocs who have been accept
 
 
 ### TAROS 2017 Best Paper Award
-
 ![image](/_images/awards/photo_taros17_001.jpg)  |  ![image](/_images/awards/taros2017_best_paper.jpg)
 
 We presented the best paper during the Conference Towards Autonomous Robotic Systems (TAROS) held at the University of Surrey, UK. Special thanks to the conference chair Prof. Yang Gao and all other organizers.
@@ -31,7 +30,6 @@ We presented the best paper during the Conference Towards Autonomous Robotic Sys
 
 
 ### TAROS 2016 Best Paper Award
-
 ![image](/_images/awards/taros2016_best_paper.png)
 
 We presented the best paper during the Conference Towards Autonomous Robotic Systems (TAROS) held at the University of Sheffield, UK. Special thanks to the conference chairs Prof. Tony Prescott and Prof. Jacques Penders and all other organizers.
@@ -39,14 +37,12 @@ We presented the best paper during the Conference Towards Autonomous Robotic Sys
 
 
 ### Prize of the Dresden Circle of Business and Science, 2015
-
-![image](/_images/awards/prize_dresden_circle_of_business_and_science.jpg "(left to right: Michael von Bronk (Dresden Circle of Business and Science), Prof. Dr. Michael Ruck (TU Dresden), Dr. Andreas Handschuh (TU Bergakademie Freiberg), Dr.-Ing. Stefan Schafföner (Prize Winner, TU Bergakademie Freiberg), M.Sc. Stefan Schubert (Prize Winner, TU Chemnitz), Prof. Dr. Peter Protzel (TU Chemnitz), Prof. Dr. Endrik Wilhelm (Dresden Circle of Business and Science))")
+![image](/_images/awards/prize_dresden_circle_of_business_and_science.jpg "(left to right: Michael von Bronk (Dresden Circle of Business and Science), Prof. Dr. Michael Ruck (TU Dresden), Dr. Andreas Handschuh (TU Bergakademie Freiberg), Dr.-Ing. Stefan Schafföner (Prize Winner, TU Bergakademie Freiberg), M.Sc. Stefan Schubert (Prize Winner, TU Chemnitz), Prof. Dr. Peter Protzel (TU Chemnitz), Prof. Dr. Endrik Wilhelm (Dresden Circle of Business and Science))"){: width="400" }
 
 I was awarded as a young scientist in the field of natural sciences in Dresden, Germany.
 
 
 ### German National Scholarship, 2011-2013
-
-![image](/_images/awards/deutschlandstipendium.jpg)
+![image](/_images/awards/deutschlandstipendium.jpg){: width="400" }
 
 I applied successfully for the German National Scholarship (merit-based scholarship).
