@@ -23,6 +23,7 @@ I was one of the 23 international PhD students and postdocs who have been accept
 
 
 ### TAROS 2017 Best Paper Award
+
 ![image](/_images/awards/photo_taros17_001.jpg)  |  ![image](/_images/awards/taros2017_best_paper.jpg)
 
 We presented the best paper during the Conference Towards Autonomous Robotic Systems (TAROS) held at the University of Surrey, UK. Special thanks to the conference chair Prof. Yang Gao and all other organizers.
