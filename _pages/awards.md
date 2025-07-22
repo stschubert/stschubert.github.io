@@ -2,14 +2,14 @@
 permalink: /awards/
 title: "Awards"
 ---
-- [Outstanding Workshop Paper Award (RSS 2025 Workshop on Unifying Visual SLAM)](https://stschubert.github.io/awards/#outstanding-workshop-paper-award-rss-2025-workshop-on-unifying-visual-slam)
+- [Outstanding Workshop Paper Award (RSS 2025 Workshop on Unifying Visual SLAM)](https://stschubert.github.io/awards/#outstanding-workshop-paper-award-at-rss-2025-workshop-on-unifying-visual-slam)
 - [RSS Pioneer 2019](https://stschubert.github.io/awards/#rss-pioneer-2019-conference-robotics-science-and-systems)
 - [TAROS 2017 Best Paper Award](https://stschubert.github.io/awards/#taros-2017-best-paper-award)
 - [TAROS 2016 Best Paper Award](https://stschubert.github.io/awards/#taros-2016-best-paper-award)
 - [Prize of the Dresden Circle of Business and Science, 2015](https://stschubert.github.io/awards/#prize-of-the-dresden-circle-of-business-and-science-2015)
 - [German National Scholarship, 2011-2013](https://stschubert.github.io/awards/#german-national-scholarship-2011-2013)
 
-### Outstanding Workshop Paper Award (RSS 2025 Workshop on Unifying Visual SLAM)
+### Outstanding Workshop Paper Award at RSS 2025 Workshop on Unifying Visual SLAM
 I am thrilled that my paper on the potential of Visual Place Recognition for Visual SLAM received the Outstanding Workshop Paper Award at the Unifying Visual SLAM workshop at Hashtag RSS 2025! Many thanks to the organizers for their great workshop: Alejandro Fontan Villacampa, Lukas Schmid, Olga Vysotska, Mubariz Zaffar, Linfei Pan, Gokul B. Nair, Johan Barthelemy, Javier Civera and Michael Milford.
 - Schubert, S. (2025). On the Potential of Visual Place Recognition for Visual SLAM. _Proc. of Robotics: Science and Systems (RSS) Workshop on Unifying Visual SLAM: From Fragmented Datasets to Scalable, Real-World Solutions_. [pdf](https://vslam-lab.github.io/Unifying-VSLAM-RSS25/#/features/07-accepted-papers). **Outstanding Workshop Paper Award Winner**
 
