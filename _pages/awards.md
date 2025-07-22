@@ -2,7 +2,7 @@
 permalink: /awards/
 title: "Awards"
 ---
-- [Outstanding Workshop Paper Award (RSS 2025 Workshop on Unifying Visual SLAM)](https://stschubert.github.io/awards/#rss-pioneer-2019-conference-robotics-science-and-systems)
+- [Outstanding Workshop Paper Award (RSS 2025 Workshop on Unifying Visual SLAM)](https://stschubert.github.io/awards/#outstanding-workshop-paper-award-rss-2025-workshop-on-unifying-visual-slam)
 - [RSS Pioneer 2019](https://stschubert.github.io/awards/#rss-pioneer-2019-conference-robotics-science-and-systems)
 - [TAROS 2017 Best Paper Award](https://stschubert.github.io/awards/#taros-2017-best-paper-award)
 - [TAROS 2016 Best Paper Award](https://stschubert.github.io/awards/#taros-2016-best-paper-award)
