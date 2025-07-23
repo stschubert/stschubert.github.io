@@ -12,7 +12,7 @@ title: "Awards"
 ### Outstanding Workshop Paper Award at RSS 2025 Workshop on Unifying Visual SLAM
 ![Photo of Dr. Stefan Schubert in front of his poster](/_images/awards/rssw25_outstanding_workshop_paper_award.jpg){: width="400" }
 
-I am thrilled that my paper on the potential of Visual Place Recognition for Visual SLAM received the Outstanding Workshop Paper Award at the Unifying Visual SLAM workshop at Hashtag RSS 2025! Many thanks to the organizers for their great workshop: Alejandro Fontan Villacampa, Lukas Schmid, Olga Vysotska, Mubariz Zaffar, Linfei Pan, Gokul B. Nair, Johan Barthelemy, Javier Civera and Michael Milford.
+I am thrilled that my paper on the potential of Visual Place Recognition for Visual SLAM received the Outstanding Workshop Paper Award at the Unifying Visual SLAM workshop at RSS 2025! Many thanks to the organizers for their great workshop: Alejandro Fontan Villacampa, Lukas Schmid, Olga Vysotska, Mubariz Zaffar, Linfei Pan, Gokul B. Nair, Johan Barthelemy, Javier Civera and Michael Milford.
 - Schubert, S. (2025). On the Potential of Visual Place Recognition for Visual SLAM. _Proc. of Robotics: Science and Systems (RSS) Workshop on Unifying Visual SLAM: From Fragmented Datasets to Scalable, Real-World Solutions_. [pdf](https://vslam-lab.github.io/Unifying-VSLAM-RSS25/#/features/07-accepted-papers). **Outstanding Workshop Paper Award Winner**
 
 ### RSS Pioneer 2019 (Conference Robotics: Science and Systems)
